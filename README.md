@@ -3,4 +3,4 @@
 For details, please see http://ics-software-engineering.github.io/nextjs-application-template/.
 
 
-[Experience Next.js Application Template](http://courses.ics.hawaii.edu/ics314s25/morea/nextjs-2/experience-nextjs-application-template.html)
+[Experience Application Template (Next.js)](http://courses.ics.hawaii.edu/ics314s25/morea/nextjs-2/experience-nextjs-application-template.html)
